@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Import FontAwesome for icon
+https://github.com/FortAwesome/angular-fontawesome
+
+## Json Server
+https://www.npmjs.com/package/json-server
