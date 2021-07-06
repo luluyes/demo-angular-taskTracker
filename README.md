@@ -1,6 +1,8 @@
 # AngularCrash
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
+This project is a demo work from a crashcourse for Angular by Traversy Media:
+https://www.youtube.com/watch?v=3dHNOWTI7H8&ab_channel=TraversyMedia
 
 ## Development server
 
